@@ -1,0 +1,23 @@
+Files I Need
+    Data
+        How do i get it?
+            Spotipy
+        Spotipy Files
+            Pulls Data
+        Data CSV Files
+    Process Data
+        Not sure if neccessary
+    Regression?
+        Go from processed data to success prediction
+        Regularize variables
+        Probably ipynb
+
+Dependencies
+    Spotipy
+    Pandas
+    Numpy
+    Matplot?
+    
+
+
+
